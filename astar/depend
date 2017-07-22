@@ -1,0 +1,2 @@
+main.o: main.c pq.h
+pq.o: pq.c pq.h
